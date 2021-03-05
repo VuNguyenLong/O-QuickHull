@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  convex_ohq.cpp
+D:\Research\Researcher\BK_HPC_AI\O-Quickhull-src\libs\Dll1\Dll1\convex_ohq.cpp(298,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  data.cpp
+D:\Research\Researcher\BK_HPC_AI\O-Quickhull-src\libs\Dll1\Dll1\data.cpp(101,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  dllmain.cpp
+  utils.cpp
+D:\Research\Researcher\BK_HPC_AI\O-Quickhull-src\libs\Dll1\Dll1\utils.cpp(19,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Generating Code...

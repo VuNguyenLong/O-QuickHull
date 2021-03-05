@@ -1,0 +1,11 @@
+﻿  convex_ohq.cpp
+  data.cpp
+  utils.cpp
+D:\Research\Researcher\BK_HPC_AI\O-Quickhull-src\libs\Dll1\Dll1\utils.cpp(7,8): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+D:\Research\Researcher\BK_HPC_AI\O-Quickhull-src\libs\Dll1\Dll1\utils.cpp(15,20): warning C4018: '<': signed/unsigned mismatch
+     Creating library D:\Research\Researcher\BK_HPC_AI\O-Quickhull-src\libs\Dll1\Release\Dll1.lib and object D:\Research\Researcher\BK_HPC_AI\O-Quickhull-src\libs\Dll1\Release\Dll1.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 398 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Dll1.vcxproj -> D:\Research\Researcher\BK_HPC_AI\O-Quickhull-src\libs\Dll1\Release\Dll1.dll
